@@ -15,4 +15,5 @@ Converts Sign Language to **Text & Speech**
 Uses **TensorFlow & MediaPipe** for hand tracking  
 **Flask Web App** with live video feed  
 
+sample video - https://drive.google.com/file/d/1HawYSbGw4epAbqbQRdI9KBf7Gc0W-ZQQ/view?usp=sharing
 
